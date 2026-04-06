@@ -148,17 +148,6 @@ React Re-render
 
 ---
 
-## 🛠 Tech Stack
-
-### 🔹 Frontend
-- React 19  
-- Tailwind CSS  
-- Chart.js  
-- Zustand  
-- Vite  
-
----
-
 ## ✨ Features
 
 ### 📊 Dashboard
