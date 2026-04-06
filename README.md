@@ -4,7 +4,7 @@
 
 **A full-stack personal finance tracking system with analytics, insights, and role-based access**
 
-Built with **React · Node.js · Express · Zustand · Chart.js**
+Built with **React · Tailwind CSS · Zustand · Chart.js**
 
 </div>
 
@@ -29,6 +29,17 @@ The project demonstrates full-stack architecture, combining a high-performance R
 - Implement role-based access control (RBAC)  
 - Demonstrate scalable full-stack architecture  
 - Ensure responsive and user-friendly UI/UX  
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-19.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-5.x-brown?style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/Chart.js-4.x-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -186,20 +197,6 @@ React Re-render
 
 ## 🔄 Application Flow
 User → Frontend UI → API Request → Backend → Data Storage
-<──────────── Response ───────────────>
-
----
-
-## 📁 Project Structure
-
-
-fintrack/
-│
-├── frontend/ # React app
-│ ├── src/
-│ └── package.json
-├── README.md
-
 
 ---
 
