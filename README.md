@@ -157,14 +157,6 @@ React Re-render
 - Zustand  
 - Vite  
 
-### 🔹 Backend
-- Node.js  
-- Express.js  
-
-### 🔹 Data Layer
-- LocalStorage (Current)  
-- Extendable to MongoDB / Firebase  
-
 ---
 
 ## ✨ Features
