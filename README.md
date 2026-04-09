@@ -12,17 +12,6 @@ FinTrack is a highly interactive and production-ready financial tracking applica
 
 ---
 
-## 🌐 Live Deployment
-
-Deploy on any static hosting platform like Vercel, Netlify, or GitHub Pages.
-
-```bash
-npm run build
-npm run preview
-```
-
----
-
 ## 🚀 Overview of Approach
 
 This project goes beyond basic CRUD functionality and focuses on building a polished, scalable frontend architecture.
@@ -371,6 +360,40 @@ npm run dev
 | Storage    | localStorage |
 | Port       | 5173         |
 | Deployment | Static hosting |
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Viewer Dashboard Page
+<p align="center">
+  <img src="./screenshots/a.png" alt="Viewer Dashboard" width="90%" />
+</p>
+
+### 💳 Transactions Page
+<p align="center">
+  <img src="./screenshots/b.png" alt="Transactions" width="90%" />
+</p>
+
+### 📈 Insights Page
+<p align="center">
+  <img src="./screenshots/c.png" alt="Insights" width="90%" />
+</p>
+
+### 🏠 Admin Dashboard Page
+<p align="center">
+  <img src="./screenshots/d.png" alt="Admin Dashboard" width="90%" />
+</p>
+
+### 🌙 Theme Toggle to Light
+<p align="center">
+  <img src="./screenshots/e.png" alt="Light Theme Change" width="90%" />
+</p>
+
+### ⚙️ Settings Page
+<p align="center">
+  <img src="./screenshots/f.png" alt="Settings" width="90%" />
+</p>
 
 ---
 
