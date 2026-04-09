@@ -2,9 +2,6 @@
 
 <div align="center">
 
-```
-    FINTRACK
-```
 
 **A modern, production-grade personal finance dashboard**
 **built with React 19 · Tailwind CSS 3 · Chart.js 4 · Zustand 5**
@@ -35,7 +32,6 @@
 - [Component Flowchart](#-component-flowchart)
 - [State Management Flow](#-state-management-flow)
 - [Role-Based Access Control](#-role-based-access-control)
-- [Responsive Breakpoints](#-responsive-breakpoints)
 - [Advantages](#-advantages)
 - [Setup & Installation](#-setup--installation)
 - [Available Scripts](#-available-scripts)
@@ -381,7 +377,7 @@ FinTrack/
                    ┌───────────────────────┐
                    │   useStore.js init    │
                    │   read localStorage   │
-                   │   'FinTrack-v2'       │
+                   │   'FinTrack-v1'       │
                    └───────────┬───────────┘
                                │
                ┌───────────────┴───────────────┐
@@ -694,7 +690,7 @@ Open [http://localhost:5173](http://localhost:5173)
 
 - **No environment variables required** — the app runs entirely in the browser
 - **No API keys** — all data is local
-- **localStorage key** — `FinTrack-v2` stores `{ transactions, theme, role }`
+- **localStorage key** — `FinTrack-v1` stores `{ transactions, theme, role }`
 - **Reset data** — Settings → Data Management → Reset to Default Data, or clear `FinTrack-v2` from DevTools
 - **Port** — defaults to `5173`; change with `npm run dev -- --port 3000`
 - **Production build** — outputs to `dist/`, can be deployed to any static host (Vercel, Netlify, GitHub Pages)
@@ -707,6 +703,6 @@ Open [http://localhost:5173](http://localhost:5173)
   React · Tailwind CSS · Chart.js · Zustand · Lucide · Vite
 ```
 
-**FinTrack v2.0.0 · April 2026**
+**FinTrack v1 · April 2026**
 
 </div>
